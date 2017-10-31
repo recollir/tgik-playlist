@@ -74,11 +74,21 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 - Video: [https://www.youtube.com/watch?v=xEdBSVaUtp4](https://www.youtube.com/watch?v=xEdBSVaUtp4)
 - Show notes:
 
+    > In this episode we cover the various parameters on the Pod object and how those interact to provide reliable service.  See Joe kill AWS instances out from under Kubernetes and have Kubernetes continue without missing a beat.  Learn how liveness and readiness probes work to make sure that services stay up and only serve traffic when they want to.  Watch Joe learn new things about Kubernetes that he didn't already know.
+
 ## TGIK Kubernetes 004: RBAC
 
 - Recording date: 2017-07-21
 - Video: [https://www.youtube.com/watch?v=slUMVwRXlRo](https://www.youtube.com/watch?v=slUMVwRXlRo)
 - Show notes:
+
+    > Here we talk about Authentication, Authorization and RBAC for Kubernetes.
+
+    - [AWS Quick Start for Kubernetes by Heptio](https://aws.amazon.com/quickstart/architecture/heptio-kubernetes/)
+    - [Jakub Scholz's guide to adding users with x509 certs](https://www.linkedin.com/pulse/adding-users-quick-start-kubernetes-aws-jakub-scholz)
+    - [Kubernetes docs page on Authn](https://kubernetes.io/docs/admin/authentication/)
+    - [Kubernetes docs page on Authz](https://kubernetes.io/docs/admin/authorization/)
+    - [Heptio cheat page on RBAC](http://docs.heptio.com/content/tutorials/rbac.html)
 
 ## TGIK Kubernetes 003: Istio
 
@@ -86,12 +96,16 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 - Video: [https://www.youtube.com/watch?v=WnDG-5cvEew](https://www.youtube.com/watch?v=WnDG-5cvEew)
 - Show notes:
 
+    > Not everything goes as planned, but with the help of the watchers we figure it out and get Istio up and running on Kubernetes.
+    > A fix for the issue that we hit is outlined here: [https://github.com/istio/istio/pull/333](https://github.com/istio/istio/pull/333)
+    > The link to Tim's presentation about Containers vs Pods: [https://twitter.com/thockin/status/885803327614840833](https://twitter.com/thockin/status/885803327614840833)
+
 ## TGIK Kubernetes 002: Networking and Services
 
 - Recording date: 2017-07-07
 - Video: [https://www.youtube.com/watch?v=PlnvxqKR28A](https://www.youtube.com/watch?v=PlnvxqKR28A)
 - Show notes:
-
+  - No show notes for episode 002
 
 ## TGIK Kubernetes 001: A Quick Tour
 
