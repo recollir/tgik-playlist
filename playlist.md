@@ -44,11 +44,25 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 - Video: [https://www.youtube.com/watch?v=9uU2QMAiZrI](https://www.youtube.com/watch?v=9uU2QMAiZrI)
 - Show notes:
 
+    > This episode will explore installing nginx ingress on an AWS cluster. We'll also look at how to get TLS certificates automatically allocated by Let's Encrypt via kube-lego.
+
+    - [Sonobuoy Scanner](https://scanner.heptio.com)
+    - [Kubernetes 1.8 release notes](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md#v180)
+    - [Ingress repo](https://github.com/kubernetes/ingress-nginx)
+    - [kube-lego repo](https://github.com/jetstack/kube-lego)
+    - [kube-lego RBAC rules](https://github.com/jetstack/kube-lego/issues/99#issuecomment-320342156)
+    - [kuard example server](https://github.com/kubernetes-up-and-running/kuard)
+    - [Ingress docs](https://kubernetes.io/docs/concepts/services-networking/ingress/)
+
 ## TGIK Kubernetes 009: Finishing the Controller
 
 - Recording date: 2017-09-15
 - Video: [https://www.youtube.com/watch?v=wqhKCiGsf1Y](https://www.youtube.com/watch?v=wqhKCiGsf1Y)
 - Show notes:
+
+    > In this episode, Joe will be continue to build the controller he started in [TGIK 007](https://www.youtube.com/watch?v=8Xo_ghCIOSY). Some great progress was made in [TGIK 008](https://www.youtube.com/watch?v=fWkK-zsFtlU) and we'll look to finish up in this episode.
+
+    - [The github repo we were working on](https://github.com/jbeda/tgik-controller)
 
 ## TGIK Kubernetes 008: Continuing the Controller
 
@@ -56,17 +70,40 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 - Video: [https://www.youtube.com/watch?v=fWkK-zsFtlU](https://www.youtube.com/watch?v=fWkK-zsFtlU)
 - Show notes:
 
+    > In this episode, Joe will be continue to build the controller he started in [TGIK 007](https://www.youtube.com/watch?v=8Xo_ghCIOSY).  After taking a 3 week break from TGIK, Joe is going to take a step back and take a simpler approach to building this. Come hear what he got wrong the first time and watch as he fixes it.
+
+   - [Repo with the code](https://github.com/jbeda/tgik-controller)
+   - [Julia's cool drawing](https://twitter.com/b0rk/status/872822361199972352)
+   - [Pointer to new AWS NL](https://twitter.com/jbeda/status/905935335237881857)
+   - [nginx Unit](https://www.nginx.com/products/nginx-unit/)
+
 ## TGIK Kubernetes 007: Building a Controller
 
 - Recording date: 2017-08-11
 - Video: [https://www.youtube.com/watch?v=8Xo_ghCIOSY](https://www.youtube.com/watch?v=8Xo_ghCIOSY)
 - Show notes:
 
+    > In this episode, Joe will be building a new controller using Go.  Learn how controllers work and a bit about how to build one.  Also watch Joe, most probably, looks stuff up on Stack Overflow.
+
+    - [The repo where this project lives](https://github.com/jbeda/tgik-controller)
+    - [The code that we started with](https://github.com/jbeda/tgik-controller/tree/13db5aaa9d9cc6745474b83316dc5faa9fff9c5f)
+    - [The code that we ended with](https://github.com/jbeda/tgik-controller/tree/ac55060d60f51fc89240200050e88368d5f58848)
+
 ## TGIK Kubernetes 006: kubeadm
 
 - Recording date: 2017-08-04
 - Video: [https://www.youtube.com/watch?v=2Yyc2R8yDRo](https://www.youtube.com/watch?v=2Yyc2R8yDRo)
 - Show notes:
+
+    > In this episode Joe uses kubeadm to stand up a cluster using raw AWS instances.  He goes into some of the details of what is happening under the covers.  You can use this process to get Kubernetes set up on *any* set of linux machines.
+
+    - Lachlan Evenson's videos
+      - [Sonobuoy](https://twitter.com/LachlanEvenson/status/893563156324208641)
+      - [Ark](https://twitter.com/LachlanEvenson/status/893509442750169088)
+    - [Kubeadm docs](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm)
+    - [Gist with commands I was copy/pasting](https://gist.github.com/jbeda/2317cbfdd6b75288254a79468ed30200)
+    - [K8s Quickstart from Heptio repo (for reference)](https://github.com/heptio/aws-quickstart)
+    - [AWS cloud provider notes (need to get these into official docs)](https://docs.google.com/document/d/17d4qinC_HnIwrK0GHnRlD1FKkTNdN__VO4TH9-EzbIY/edit#heading=h.2hif681swxfg)
 
 ## TGIK Kubernetes 005: Pod Params and Probes
 
@@ -105,7 +142,8 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 - Recording date: 2017-07-07
 - Video: [https://www.youtube.com/watch?v=PlnvxqKR28A](https://www.youtube.com/watch?v=PlnvxqKR28A)
 - Show notes:
-  - No show notes for episode 002
+
+    > No show notes for episode 002
 
 ## TGIK Kubernetes 001: A Quick Tour
 
