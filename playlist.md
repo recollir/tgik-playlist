@@ -1,10 +1,12 @@
 # TGIK playlist
 
+(as of 2017-10-31)
+
 The following list contains information about the individual TGIK episodes such as the YouTube url and the show notes.
 
 The master playlist can be found at [TGIK playlist](https://www.youtube.com/playlist?list=PLvmPtYZtoXOENHJiAQc6HmV2jmuexKfrJ)
 
-As of 2017-10-31.
+> Come hang out with Joe Beda as he does a bit of hands on exploration of Kubernetes and related topics.  Some of this will be Joe talking about the things he knows well.  Some of this will be Joe exploring something new with the audience.  Ask questions, comment and help decide where things go.
 
 ## (Upcoming) TGIK Kubernetes 015: Exploring Brigade from Microsoft
 
@@ -90,8 +92,13 @@ As of 2017-10-31.
 - Video: [https://www.youtube.com/watch?v=PlnvxqKR28A](https://www.youtube.com/watch?v=PlnvxqKR28A)
 - Show notes:
 
+
 ## TGIK Kubernetes 001: A Quick Tour
 
 - Recording date: 2017-06-30
 - Video: [https://www.youtube.com/watch?v=9YYeE-bMWv8](https://www.youtube.com/watch?v=9YYeE-bMWv8)
 - Show notes:
+    - [Quick Start for Kubernets by Heptio](https://aws.amazon.com/quickstart/architecture/heptio-kubernetes)
+    - [Command line snippets](https://gist.github.com/jbeda/9a2097c726584560fa13f6c1ae13abfb)
+    - [ksonnet](http://ksonnet.heptio.com)
+    - [ksonnet on github](https://github.com/ksonnet)
