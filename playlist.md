@@ -14,11 +14,26 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 - Video: [https://www.youtube.com/watch?v=hreCyC7XnOw](https://www.youtube.com/watch?v=hreCyC7XnOw)
 - Show notes:
 
+    > This week Joe will be looking at Brigade from Microsoft. This is a Serverless-ish workflow system that was recently announced.
+
+    - [Brigade](https://open.microsoft.com/2017/10/23/announcing-brigade-event-driven-scripting-kubernetes/) and [Brigade on github](https://github.com/azure/brigade)
+
 ## TGIK Kubernetes 014: Serverless with OpenFaaS
 
 - Recording date: 2017-10-27
 - Video: [https://www.youtube.com/watch?v=iMzf_oWsRi0](https://www.youtube.com/watch?v=iMzf_oWsRi0)
 - Show notes:
+
+    > This week Joe will be digging into the OpenFaaS serverless framework.  This is a continuation from the last two weeks when he looked at kubeless and fission.  We'll be starting from scratch and see how far we can get.  We will also compare and contrast approaches.
+
+    - [Updated AWS Quickstart for Kubernetes for 1.8](https://github.com/aws-quickstart/quickstart-heptio)
+    - [Heptio Sonobuoy 0.9.0](https://github.com/heptio/sonobuoy/releases/tag/v0.9.0)
+    - [Heptio Ark 0.5.0](https://github.com/heptio/ark/releases)
+    - [Brigade](https://open.microsoft.com/2017/10/23/announcing-brigade-event-driven-scripting-kubernetes/) and [Brigade on github](https://github.com/azure/brigade)
+    - [New AKS](https://azure.microsoft.com/en-us/services/container-service/kubernetes/)
+    - [Hacking and Hardening Kubernetes by Example](https://docs.google.com/presentation/d/1xeagoDn-6kQ6FPdfX9IlD5MjWalW2o8PeCt20DEfFpg/edit#slide=id.gcb9a0b074_1_0)
+    - [OpenFaaS Guides](https://github.com/openfaas/faas/tree/master/guide)
+    - [OpenFaaS Golang functions](https://blog.alexellis.io/serverless-golang-with-openfaas/)
 
 ## TGIK Kubernetes 013: Serverless with Fission
 
@@ -26,17 +41,46 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 - Video: [https://www.youtube.com/watch?v=3XgBB4mATNM](https://www.youtube.com/watch?v=3XgBB4mATNM)
 - Show notes:
 
+    > This week Joe will be digging into the Fission serverless framework.  This is a continuation from last week when he looked at kubeless.  We'll be starting from scratch and see how far we can get.  We will also compare and contrast approaches.
+
+    - [Grafeas announcement](https://cloudplatform.googleblog.com/2017/10/introducing-grafeas-open-source-api-.html)
+    - [Grafeas site](https://grafeas.io)
+    - [Kelsey's guide to installing Grafeas](https://github.com/kelseyhightower/grafeas-tutorial)
+    - [Docker/Kubernetes announcement](https://blog.docker.com/2017/10/kubernetes-docker-platform-and-moby-project/)
+    - [Moby and Kubernetes](https://blog.mobyproject.org/moby-and-kubernetes-bf888ab31e38)
+    - [Fission](http://fission.io)
+    - [Fission Workflows](https://github.com/fission/fission-workflows)
+    - [kube-metacontroller](https://github.com/GoogleCloudPlatform/kube-metacontroller)
+
 ## TGIK Kubernetes 012: Exploring serverless with Kubeless
 
 - Recording date: 2017-10-13
 - Video: [https://www.youtube.com/watch?v=WotK415iOQM](https://www.youtube.com/watch?v=WotK415iOQM)
 - Show notes:
 
+    > In this episode Joe will be getting hands on with kubeless for the first time.  Kubeless is a popular serverless framework that runs on top of Kubernetes.
+
+    - [Kubeless](http://kubeless.io) and [Kubeless on github](https://github.com/kubeless/kubeless)
+    - [Kubernetes office hours](https://github.com/kubernetes/community/blob/master/community/office-hours.md)
+    - [Kubernetes Up & Running](http://shop.oreilly.com/product/0636920043874.do)
+    - [Heptio Labs](https://blog.heptio.com/announcing-heptio-labs-c39c268da67c)
+    - [Becoming a Cloud Native Organization eBook](https://blog.heptio.com/becoming-cloud-native-a8b82be02d27)
+    - [Heptio Solutions Engineer Job listing](https://jobs.lever.co/heptio/9b6c7578-b696-4468-859b-a39d58fa0eb8)
+    - [kubevirt](https://github.com/kubevirt/kubevirt)
+    - [Heptio Quickstart issue w/ storage classes](https://github.com/heptio/aws-quickstart/issues/80)
+
 ## TGIK Kubernetes 011: Upgrading to 1.8 with kubeadm
 
 - Recording date: 2017-10-06
 - Video: [https://www.youtube.com/watch?v=x9doB5eJWgQ](https://www.youtube.com/watch?v=x9doB5eJWgQ)
 - Show notes:
+
+    > This episode will involving taking a running 1.7.x cluster that was originally built with kubeadm and upgrading that to 1.8.  We'll also talk about the future of install tools and maybe have time to explore "kubeadm phases".
+
+    - [Kubeadm upgrade guide to 1.8](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-8/)
+    - [1.8 change notes](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md#v180)
+    - [My notes I was copy/pasteing from](https://gist.github.com/jbeda/9d14523377b53937cc531f78b9f0f021)
+    - [Allegory of the Cave (wrt API versions)](https://en.wikipedia.org/wiki/Allegory_of_the_Cave)
 
 ## TGIK Kubernetes 010: Ingress with TLS
 
