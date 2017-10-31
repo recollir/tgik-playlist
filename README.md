@@ -1,4 +1,4 @@
-# A TGIK playlist in textform
+# A TGIK playlist in text form
 
 Joe Beda - [@jbeda](https://twitter.com/jbeda) on Twitter - from [Heptio](https://heptio.com) and [Kubernetes](https://kubernetes.io) fame records each Friday a TGIK episode live on Youtube.
 
