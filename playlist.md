@@ -1,6 +1,6 @@
 # TGIK playlist
 
-(as of 2017-10-31)
+(as of 2017-11-04)
 
 The following list contains information about the individual TGIK episodes such as the YouTube url and the show notes.
 
