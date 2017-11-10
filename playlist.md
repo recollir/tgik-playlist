@@ -17,6 +17,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     > This week we will be exploring a new project from Heptio: Contour! This is a new Kubernetes Ingress controller based on Envoy written by Dave Cheney.
 
     - [Contour](https://github.com/heptio/contour)
+    - [Glowforge - The iconic 3D Laser Printer](https://glowforge.com)
 
 ## TGIK Kubernetes 015: Exploring Brigade from Microsoft
 
