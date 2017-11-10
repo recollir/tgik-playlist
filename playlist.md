@@ -8,11 +8,15 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
 > Come hang out with Joe Beda as he does a bit of hands on exploration of Kubernetes and related topics.  Some of this will be Joe talking about the things he knows well.  Some of this will be Joe exploring something new with the audience.  Ask questions, comment and help decide where things go.
 
-## (Upcoming) TGIK Kubernetes 016:
+## TGIK Kubernetes 016: Heptio Contour ingress controller
 
 - Recording date: 2017-11-11
-- Video:
+- Video: [https://www.youtube.com/watch?v=-Hvfl6zOLGE](https://www.youtube.com/watch?v=-Hvfl6zOLGE)
 - Show notes:
+
+    > This week we will be exploring a new project from Heptio: Contour! This is a new Kubernetes Ingress controller based on Envoy written by Dave Cheney.
+
+    - [Contour](https://github.com/heptio/contour)
 
 ## TGIK Kubernetes 015: Exploring Brigade from Microsoft
 
