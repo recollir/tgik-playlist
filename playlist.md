@@ -8,6 +8,12 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
 > Come hang out with Joe Beda as he does a bit of hands on exploration of Kubernetes and related topics.  Some of this will be Joe talking about the things he knows well.  Some of this will be Joe exploring something new with the audience.  Ask questions, comment and help decide where things go.
 
+## (Upcoming) TGIK Kubernetes 017:
+
+- Recording date: 2017-11-17
+- Video:
+- Show notes:
+
 ## TGIK Kubernetes 016: Heptio Contour ingress controller
 
 - Recording date: 2017-11-11
@@ -17,7 +23,13 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     > This week we will be exploring a new project from Heptio: Contour! This is a new Kubernetes Ingress controller based on Envoy written by Dave Cheney.
 
     - [Contour](https://github.com/heptio/contour)
-    - [Glowforge - The iconic 3D Laser Printer](https://glowforge.com)
+    - [Envoy](https://www.envoyproxy.io)
+    - [Envoy v2 API](https://github.com/envoyproxy/data-plane-api)
+    - [Kris and Justin's Cloud Native Infrastructure book](https://www.amazon.com/Cloud-Native-Infrastructure-Applications-Environment/dp/1491984309)
+    - [Weaveworks Flux](https://github.com/weaveworks/flux)
+    - [Zalando ALB controller](https://github.com/zalando-incubator/kube-ingress-aws-controller)
+    - [Glowforge](https://glowforge.com)
+    - [My paperjs program for the slinky](http://sketch.paperjs.org/#S/nZFhS8MwEIb/yhGQJUvRTGUbnX7yDwh+tH6I7bmWthfJ4kRG/7uXtnM6JoKBQO7ufS95LjtBtkWRiocaQ16KROSuiPHWemg/7m0o4RYI3yEepVplNGTPN8G7Gu9c4zwrJh6LCRczisYcKaDfG11FQV4bk/BWg4De2j69Yc2lMb3xhRvJihNmBRXcHDQcaq1glxHwivYt5sH97D9W47K0bjAFeTU3Fws1ldXZQiWHcoO0DmXKd0xhNqS7yBUPI5stCjky6PEyfngXX3liJn+M5JhrOfD8G0dW6jTQ18D0zOy5fsHS36H405892vq1N4v08an7BA==)
 
 ## TGIK Kubernetes 015: Exploring Brigade from Microsoft
 
