@@ -8,11 +8,17 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
 > Come hang out with Joe Beda as he does a bit of hands on exploration of Kubernetes and related topics.  Some of this will be Joe talking about the things he knows well.  Some of this will be Joe exploring something new with the audience.  Ask questions, comment and help decide where things go.
 
-## (Upcoming) TGIK Kubernetes 017:
+## TGIK Kubernetes 017: Resource limits and quota
 
 - Recording date: 2017-11-17
-- Video:
+- Video: https://www.youtube.com/watch?v=xtl2KV1JW9s
 - Show notes:
+
+    > This week we will be exploring resource limits (CPU, RAM, etc.) along with resource quotas. We'll explore how these work, how to set them and some best practices.  We also cover heapster and how it collects resource statistics.
+
+    - [One year for Heptio!](https://blog.heptio.com/one-year-of-heptio-5a1dbd95b73b)
+    - [Jamie's deep dive on how k8s works](https://github.com/jamiehannaford/what-happens-when-k8s)
+    - [My working notes and some of the files I used](https://gist.github.com/jbeda/3c54ddd9c25eaafb399b143f65b9c07d)
 
 ## TGIK Kubernetes 016: Heptio Contour ingress controller
 
