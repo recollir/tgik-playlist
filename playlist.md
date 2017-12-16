@@ -10,6 +10,10 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
 ## TGIK Kubernetes 018: kube-metacontroller
 
+- Recording date: 2017-12-15
+- Video: https://www.youtube.com/watch?v=xdCTC4scjDg
+- Show notes:
+
     > This week we will be exploring the kube-metacontroller project from Anthony Yeh at Google.  This is a framework that makes it super easy to create controllers and is something that was highlighted in a KubeCon keynote. As this is the first episode after KubeCon I'll also share my impressions of what I saw there.
 
     - [kube-metacontroller](https://github.com/GoogleCloudPlatform/kube-metacontroller)
