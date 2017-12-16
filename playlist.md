@@ -8,6 +8,18 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
 > Come hang out with Joe Beda as he does a bit of hands on exploration of Kubernetes and related topics.  Some of this will be Joe talking about the things he knows well.  Some of this will be Joe exploring something new with the audience.  Ask questions, comment and help decide where things go.
 
+## TGIK Kubernetes 018: kube-metacontroller
+
+    > This week we will be exploring the kube-metacontroller project from Anthony Yeh at Google.  This is a framework that makes it super easy to create controllers and is something that was highlighted in a KubeCon keynote. As this is the first episode after KubeCon I'll also share my impressions of what I saw there.
+
+    - [kube-metacontroller](https://github.com/GoogleCloudPlatform/kube-metacontroller)
+    - [Dick's Drive In](http://www.ddir.com)
+    - [KSonnet](https://ksonnet.io)
+    - [KSonnet quick screencast](https://www.youtube.com/watch?v=KgEoh9xCfXc)
+    - [Heptio Ark + Microsoft Azure](https://techcrunch.com/2017/12/07/heptio-teams-up-with-microsoft-to-build-a-better-kubernetes-disaster-recovery-solution/)
+    - [Helm security thoughts](https://engineering.bitnami.com/articles/helm-security.html)
+    - [tgik-controller](https://github.com/jbeda/tgik-controller)
+
 ## TGIK Kubernetes 017: Resource limits and quota
 
 - Recording date: 2017-11-17
