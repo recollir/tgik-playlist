@@ -6,6 +6,14 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
 > Come hang out with Joe Beda as he does a bit of hands on exploration of Kubernetes and related topics.  Some of this will be Joe talking about the things he knows well.  Some of this will be Joe exploring something new with the audience.  Ask questions, comment and help decide where things go.
 
+## TGI Kubernetes 026: Helm Yeah!
+
+- Recording date: 2018-02-16
+- Video: https://www.youtube.com/watch?v=t3kmscqbFHg
+- Show notes:
+
+  > This week Kris will be exploring Helm. We will start by installing Helm on a new Kubernetes cluster. We will be installing an existing helm chart, and creating a new one from scratch for the Java Prototype application.
+
 ## TGI Kubernetes 025: Using (Linux) K8s from Windows
 
 - Recording date: 2018-02-09
