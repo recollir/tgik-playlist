@@ -6,6 +6,23 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
 > Come hang out with Joe Beda as he does a bit of hands on exploration of Kubernetes and related topics.  Some of this will be Joe talking about the things he knows well.  Some of this will be Joe exploring something new with the audience.  Ask questions, comment and help decide where things go.
 
+## TGI Kubernetes 025: Using (Linux) K8s from Windows
+
+- Recording date: 2018-02-09
+- Video: https://www.youtube.com/watch?v=F47RwU8AzYI
+- Show notes:
+
+  > This week Joe goes Windows! He'll explore the Windows Subsystem for Linux (WSL), Docker for Windows and using kubectl to manage Kubernetes from the Windows command line.
+
+  - [LeMatty's blog with notes from previous TGIKs](https://prefetch.net/blog/)
+  - [dotmesh](https://dotmesh.com)
+  - [kured](https://github.com/weaveworks/kured)
+  - [Kubernetes community repository structure proposal](https://github.com/kubernetes/community/pull/1752)
+  - [nocode](https://github.com/kelseyhightower/nocode)
+  - [OPA](http://www.openpolicyagent.org)
+  - [NodePort issue with 1.9 kubeadm clusters](https://github.com/kubernetes/kubernetes/issues/58908)
+  - [WSL in VSCode](https://github.com/Microsoft/vscode/issues/22317)
+
 ## TGI Kubernetes 024: Kubernetes Job objects
 
 - Recording date: 2018-02-02
