@@ -6,6 +6,14 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
 > Come hang out with Joe Beda as he does a bit of hands on exploration of Kubernetes and related topics.  Some of this will be Joe talking about the things he knows well.  Some of this will be Joe exploring something new with the audience.  Ask questions, comment and help decide where things go.
 
+## TGI Kubernetes 028: 
+
+- Recording date: 2018-03-02
+- Video: https://www.youtube.com/watch?v=JMCCeAb9eY4
+- Show notes:
+
+  > Stateful service and applications are a hot topic in the Kubernetes world. In this episode I'll talk in general about how I view state on Kubernetes and then we'll explore a system built for a dynamic Kubernetes like environment -- CockroachDB
+
 ## TGI Kubernetes 027: Securing the k8s dashboard and beyond!
 
 - Recording date: 2018-02-23
