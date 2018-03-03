@@ -6,7 +6,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
 > Come hang out with Joe Beda as he does a bit of hands on exploration of Kubernetes and related topics.  Some of this will be Joe talking about the things he knows well.  Some of this will be Joe exploring something new with the audience.  Ask questions, comment and help decide where things go.
 
-## TGI Kubernetes 028: 
+## TGI Kubernetes 028: Exploring CockroachDB on Kubernetes
 
 - Recording date: 2018-03-02
 - Video: https://www.youtube.com/watch?v=JMCCeAb9eY4
