@@ -9,8 +9,10 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 ## TGI Kubernetes 031: Connecting with Telepresence
 
 - Recording date: 2018-04-06
-- Video: 
+- Video: https://www.youtube.com/watch?v=zezeBAJ_3w8
 - Show notes:
+
+  > Continuing on our series on developer tools for working with Kubernetes, we are looking at Telepresence from Datawire.  https://www.telepresence.io/.  It allows you to run locally but connect to your remote Kubernetes cluster.
 
 ## TGI Kubernetes 030: Exploring Skaffold
 
