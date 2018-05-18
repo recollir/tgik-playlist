@@ -6,13 +6,51 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
 > Come hang out with Joe Beda as he does a bit of hands on exploration of Kubernetes and related topics.  Some of this will be Joe talking about the things he knows well.  Some of this will be Joe exploring something new with the audience.  Ask questions, comment and help decide where things go.
 
+## TGI Kubernetes 036: Virtual Kubelet
+
+- Recording date: 2018-05-18
+- Video: https://www.youtube.com/watch?v=J8W_9GTmCNA
+- Show notes:
+
+## TGI Kubernetes 035: WeaveWorks Flux and GitOps
+
+- Recording date: 2018-05-11
+- Video: https://www.youtube.com/watch?v=aQz3H9bIH8Y
+- Show notes:
+
+  > In this post-KubeCon episode we'll cover some impressions from the conference and announcements from other CoreOS/Redhat, Microsoft and beyond. Then we'll dive into the idea of "GitOps" and how those ideas are used in WeaveWorks Flux.
+
+## TGI Kubernetes 034: Elasticsearch Operator
+
+- Recording date: 2018-04-27
+- Video: https://www.youtube.com/watch?v=8X8Rh_RKFSQ&t=3s
+- Show notes:
+
+  > This week we'll be exploring the Elasticsearch Operator. This was by popular demand via an ad hoc [twitter poll](https://twitter.com/jbeda/status/989222662516891648).
+
+## TGI Kubernetes 033: Developing with Draft
+
+- Recording date: 2018-04-20
+- Video: https://www.youtube.com/watch?v=8B1D7cTMPgA
+- Show notes:
+
+  > Finishing our our series on developer tools for working with Kubernetes, we are looking at Draft from Microsoft. [https://draft.sh](https://draft.sh). Draft automates creating/rebuilding and launching apps on Kubernetes.
+
+## TGI Kubernetes 032: kubicorn and the cluster-api
+
+- Recording date: 2018-04-13
+- Video: https://www.youtube.com/watch?v=oLGaWktrB60&t=3272s
+- Show notes:
+
+  > This week we will be exploring Kris Nova’s project Kubicorn and discovering the future of cloud native infrastructure with the cluster API work going on in upstream kubernetes.
+
 ## TGI Kubernetes 031: Connecting with Telepresence
 
 - Recording date: 2018-04-06
 - Video: https://www.youtube.com/watch?v=zezeBAJ_3w8
 - Show notes:
 
-  > Continuing on our series on developer tools for working with Kubernetes, we are looking at Telepresence from Datawire.  https://www.telepresence.io/.  It allows you to run locally but connect to your remote Kubernetes cluster.
+  > Continuing on our series on developer tools for working with Kubernetes, we are looking at Telepresence from Datawire. [https://www.telepresence.io/](https://www.telepresence.io/). It allows you to run locally but connect to your remote Kubernetes cluster.
 
 ## TGI Kubernetes 030: Exploring Skaffold
 
