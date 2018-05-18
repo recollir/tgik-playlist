@@ -292,7 +292,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
   - [AWS StepFunctions](https://aws.amazon.com/step-functions/)
   - [kubeflow](https://github.com/google/kubeflow)
 
-## TGIK Kubernetes 019: Prometheus as a noob
+## TGI Kubernetes 019: Prometheus as a noob
 
 - Recording date: 2017-12-22
 - Video: https://www.youtube.com/watch?v=pDb2psNcvKU
@@ -308,7 +308,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
   - [Honeycomb for high cardinality observability](https://honeycomb.io)
   - [Scripts I used in the episode](https://gist.github.com/jbeda/50ce424c318a1862e5c619ea649f7c53)
 
-## TGIK Kubernetes 018: kube-metacontroller
+## TGI Kubernetes 018: kube-metacontroller
 
 - Recording date: 2017-12-15
 - Video: https://www.youtube.com/watch?v=xdCTC4scjDg
@@ -324,7 +324,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     - [Helm security thoughts](https://engineering.bitnami.com/articles/helm-security.html)
     - [tgik-controller](https://github.com/jbeda/tgik-controller)
 
-## TGIK Kubernetes 017: Resource limits and quota
+## TGI Kubernetes 017: Resource limits and quota
 
 - Recording date: 2017-11-17
 - Video: https://www.youtube.com/watch?v=xtl2KV1JW9s
@@ -336,7 +336,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     - [Jamie's deep dive on how k8s works](https://github.com/jamiehannaford/what-happens-when-k8s)
     - [My working notes and some of the files I used](https://gist.github.com/jbeda/3c54ddd9c25eaafb399b143f65b9c07d)
 
-## TGIK Kubernetes 016: Heptio Contour ingress controller
+## TGI Kubernetes 016: Heptio Contour ingress controller
 
 - Recording date: 2017-11-11
 - Video: [https://www.youtube.com/watch?v=-Hvfl6zOLGE](https://www.youtube.com/watch?v=-Hvfl6zOLGE)
@@ -353,7 +353,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     - [Glowforge](https://glowforge.com)
     - [My paperjs program for the slinky](http://sketch.paperjs.org/#S/nZFhS8MwEIb/yhGQJUvRTGUbnX7yDwh+tH6I7bmWthfJ4kRG/7uXtnM6JoKBQO7ufS95LjtBtkWRiocaQ16KROSuiPHWemg/7m0o4RYI3yEepVplNGTPN8G7Gu9c4zwrJh6LCRczisYcKaDfG11FQV4bk/BWg4De2j69Yc2lMb3xhRvJihNmBRXcHDQcaq1glxHwivYt5sH97D9W47K0bjAFeTU3Fws1ldXZQiWHcoO0DmXKd0xhNqS7yBUPI5stCjky6PEyfngXX3liJn+M5JhrOfD8G0dW6jTQ18D0zOy5fsHS36H405892vq1N4v08an7BA==)
 
-## TGIK Kubernetes 015: Exploring Brigade from Microsoft
+## TGI Kubernetes 015: Exploring Brigade from Microsoft
 
 - Recording date: 2017-11-04
 - Video: [https://www.youtube.com/watch?v=hreCyC7XnOw](https://www.youtube.com/watch?v=hreCyC7XnOw)
@@ -368,7 +368,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     - [Mutable Webhooks to Beta in 1.9](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/api-machinery/admission-control-webhooks.md)
     - [Helm RBAC instructions](https://gist.github.com/mgoodness/bd887830cd5d483446cc4cd3cb7db09d)
 
-## TGIK Kubernetes 014: Serverless with OpenFaaS
+## TGI Kubernetes 014: Serverless with OpenFaaS
 
 - Recording date: 2017-10-27
 - Video: [https://www.youtube.com/watch?v=iMzf_oWsRi0](https://www.youtube.com/watch?v=iMzf_oWsRi0)
@@ -385,7 +385,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     - [OpenFaaS Guides](https://github.com/openfaas/faas/tree/master/guide)
     - [OpenFaaS Golang functions](https://blog.alexellis.io/serverless-golang-with-openfaas/)
 
-## TGIK Kubernetes 013: Serverless with Fission
+## TGI Kubernetes 013: Serverless with Fission
 
 - Recording date: 2017-10-20
 - Video: [https://www.youtube.com/watch?v=3XgBB4mATNM](https://www.youtube.com/watch?v=3XgBB4mATNM)
@@ -402,7 +402,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     - [Fission Workflows](https://github.com/fission/fission-workflows)
     - [kube-metacontroller](https://github.com/GoogleCloudPlatform/kube-metacontroller)
 
-## TGIK Kubernetes 012: Exploring serverless with Kubeless
+## TGI Kubernetes 012: Exploring serverless with Kubeless
 
 - Recording date: 2017-10-13
 - Video: [https://www.youtube.com/watch?v=WotK415iOQM](https://www.youtube.com/watch?v=WotK415iOQM)
@@ -419,7 +419,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     - [kubevirt](https://github.com/kubevirt/kubevirt)
     - [Heptio Quickstart issue w/ storage classes](https://github.com/heptio/aws-quickstart/issues/80)
 
-## TGIK Kubernetes 011: Upgrading to 1.8 with kubeadm
+## TGI Kubernetes 011: Upgrading to 1.8 with kubeadm
 
 - Recording date: 2017-10-06
 - Video: [https://www.youtube.com/watch?v=x9doB5eJWgQ](https://www.youtube.com/watch?v=x9doB5eJWgQ)
@@ -432,7 +432,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     - [My notes I was copy/pasteing from](https://gist.github.com/jbeda/9d14523377b53937cc531f78b9f0f021)
     - [Allegory of the Cave (wrt API versions)](https://en.wikipedia.org/wiki/Allegory_of_the_Cave)
 
-## TGIK Kubernetes 010: Ingress with TLS
+## TGI Kubernetes 010: Ingress with TLS
 
 - Recording date: 2017-09-29
 - Video: [https://www.youtube.com/watch?v=9uU2QMAiZrI](https://www.youtube.com/watch?v=9uU2QMAiZrI)
@@ -448,7 +448,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     - [kuard example server](https://github.com/kubernetes-up-and-running/kuard)
     - [Ingress docs](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 
-## TGIK Kubernetes 009: Finishing the Controller
+## TGI Kubernetes 009: Finishing the Controller
 
 - Recording date: 2017-09-15
 - Video: [https://www.youtube.com/watch?v=wqhKCiGsf1Y](https://www.youtube.com/watch?v=wqhKCiGsf1Y)
@@ -458,7 +458,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
     - [The github repo we were working on](https://github.com/jbeda/tgik-controller)
 
-## TGIK Kubernetes 008: Continuing the Controller
+## TGI Kubernetes 008: Continuing the Controller
 
 - Recording date: 2017-09-08
 - Video: [https://www.youtube.com/watch?v=fWkK-zsFtlU](https://www.youtube.com/watch?v=fWkK-zsFtlU)
@@ -471,7 +471,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
    - [Pointer to new AWS NL](https://twitter.com/jbeda/status/905935335237881857)
    - [nginx Unit](https://www.nginx.com/products/nginx-unit/)
 
-## TGIK Kubernetes 007: Building a Controller
+## TGI Kubernetes 007: Building a Controller
 
 - Recording date: 2017-08-11
 - Video: [https://www.youtube.com/watch?v=8Xo_ghCIOSY](https://www.youtube.com/watch?v=8Xo_ghCIOSY)
@@ -483,7 +483,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     - [The code that we started with](https://github.com/jbeda/tgik-controller/tree/13db5aaa9d9cc6745474b83316dc5faa9fff9c5f)
     - [The code that we ended with](https://github.com/jbeda/tgik-controller/tree/ac55060d60f51fc89240200050e88368d5f58848)
 
-## TGIK Kubernetes 006: kubeadm
+## TGI Kubernetes 006: kubeadm
 
 - Recording date: 2017-08-04
 - Video: [https://www.youtube.com/watch?v=2Yyc2R8yDRo](https://www.youtube.com/watch?v=2Yyc2R8yDRo)
@@ -499,7 +499,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     - [K8s Quickstart from Heptio repo (for reference)](https://github.com/heptio/aws-quickstart)
     - [AWS cloud provider notes (need to get these into official docs)](https://docs.google.com/document/d/17d4qinC_HnIwrK0GHnRlD1FKkTNdN__VO4TH9-EzbIY/edit#heading=h.2hif681swxfg)
 
-## TGIK Kubernetes 005: Pod Params and Probes
+## TGI Kubernetes 005: Pod Params and Probes
 
 - Recording date: 2017-07-28
 - Video: [https://www.youtube.com/watch?v=xEdBSVaUtp4](https://www.youtube.com/watch?v=xEdBSVaUtp4)
@@ -507,7 +507,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
     > In this episode we cover the various parameters on the Pod object and how those interact to provide reliable service.  See Joe kill AWS instances out from under Kubernetes and have Kubernetes continue without missing a beat.  Learn how liveness and readiness probes work to make sure that services stay up and only serve traffic when they want to.  Watch Joe learn new things about Kubernetes that he didn't already know.
 
-## TGIK Kubernetes 004: RBAC
+## TGI Kubernetes 004: RBAC
 
 - Recording date: 2017-07-21
 - Video: [https://www.youtube.com/watch?v=slUMVwRXlRo](https://www.youtube.com/watch?v=slUMVwRXlRo)
@@ -521,7 +521,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     - [Kubernetes docs page on Authz](https://kubernetes.io/docs/admin/authorization/)
     - [Heptio cheat page on RBAC](http://docs.heptio.com/content/tutorials/rbac.html)
 
-## TGIK Kubernetes 003: Istio
+## TGI Kubernetes 003: Istio
 
 - Recording date: 2017-07-14
 - Video: [https://www.youtube.com/watch?v=WnDG-5cvEew](https://www.youtube.com/watch?v=WnDG-5cvEew)
@@ -531,7 +531,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
     > A fix for the issue that we hit is outlined here: [https://github.com/istio/istio/pull/333](https://github.com/istio/istio/pull/333)
     > The link to Tim's presentation about Containers vs Pods: [https://twitter.com/thockin/status/885803327614840833](https://twitter.com/thockin/status/885803327614840833)
 
-## TGIK Kubernetes 002: Networking and Services
+## TGI Kubernetes 002: Networking and Services
 
 - Recording date: 2017-07-07
 - Video: [https://www.youtube.com/watch?v=PlnvxqKR28A](https://www.youtube.com/watch?v=PlnvxqKR28A)
@@ -539,7 +539,7 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 
     > No show notes for episode 002
 
-## TGIK Kubernetes 001: A Quick Tour
+## TGI Kubernetes 001: A Quick Tour
 
 - Recording date: 2017-06-30
 - Video: [https://www.youtube.com/watch?v=9YYeE-bMWv8](https://www.youtube.com/watch?v=9YYeE-bMWv8)
