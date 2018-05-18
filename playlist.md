@@ -12,6 +12,10 @@ The master playlist can be found at [TGIK playlist](https://www.youtube.com/play
 - Video: https://www.youtube.com/watch?v=J8W_9GTmCNA
 - Show notes:
 
+  > 
+
+  - [tgik/episodes/036](https://github.com/heptio/tgik/tree/master/episodes/036)
+
 ## TGI Kubernetes 035: WeaveWorks Flux and GitOps
 
 - Recording date: 2018-05-11
